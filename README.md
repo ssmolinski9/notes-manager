@@ -9,5 +9,6 @@ You can manage your categories and notes in categories. Also you can specify fon
 
 Before you use this application you should install fonts in your system: Lato, Cantarell, Cousine and Ubuntu – these are default font on Ubuntu system, but not sure if you have it on your Windows or Mac machine. 
 
-**Technology** 
+**Technology**
+
 Java 11.0.2, JDBC 3.23.1, Swing, opentest4j-1.1.1
